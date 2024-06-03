@@ -6,7 +6,7 @@ Game: Snakes
 
 ## Description 
 
-Move the mouse to control the snake, eat the food your score and the size of the snake and adviod colliding with the hawks. If your collison counts reaches 100, the game will end and display "GAME OVER". 
+Move the mouse to control the snake, eat the food so your score and the size of the snake increase and adviod colliding with the hawks. If your collison counts reaches 100, the game will end and display "GAME OVER". 
 
 ## How To Run 
 
