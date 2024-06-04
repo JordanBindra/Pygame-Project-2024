@@ -4,9 +4,9 @@ Programming Level 2
 
 Game: Snakes 
 
-## Description 
+## How To Play  
 
-Move the mouse to control the snake, eat the food so your score and the size of the snake increase and adviod colliding with the hawks. If your collison counts reaches 100, the game will end and display "GAME OVER". 
+Move the mouse to control the snake, eat the food so your score and the size of the snake increase and adviod colliding with the hawks. If your collison counts reaches 100, the game will end and display "GAME OVER". To re-play the game exit out of the pygame window and re-open. 
 
 ## How To Run 
 
