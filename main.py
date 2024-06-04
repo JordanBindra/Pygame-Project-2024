@@ -16,7 +16,7 @@ GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 GRAY = (128, 128, 128)
 
-WIDTH = 1500  # Pixels 
+WIDTH = 1600  # Pixels 
 HEIGHT = 1200
 
 SCREEN_SIZE = (WIDTH, HEIGHT) 
